@@ -3,7 +3,7 @@
 3.Allow frappe in AllowUsers in file sshd_config and restart ssh in /etc/ssh/sshd__config
 4.systemctl restart sshd
 Install Prerequisites
-apt install python3-minimal build-essential python3-setuptools
+5.apt install python3-minimal build-essential python3-setuptools
 Download Setup file
 wget https://raw.githubusercontent.com/frappe/bench/develop/install.py
 Open and edit install.py file
