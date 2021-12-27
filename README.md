@@ -1,7 +1,7 @@
-sudo adduser frappe
-sudo usermod -aG sudo frappe
-Allow frappe in AllowUsers in file sshd_config and restart ssh in /etc/ssh/sshd__config
-systemctl restart sshd
+1.sudo adduser frappe
+2.sudo usermod -aG sudo frappe
+3.Allow frappe in AllowUsers in file sshd_config and restart ssh in /etc/ssh/sshd__config
+4.systemctl restart sshd
 Install Prerequisites
 apt install python3-minimal build-essential python3-setuptools
 Download Setup file
