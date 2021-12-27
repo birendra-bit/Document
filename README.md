@@ -25,4 +25,4 @@ source env/bin/activate
 pip install paramiko
 deactivate
 
-token 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
+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
