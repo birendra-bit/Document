@@ -25,5 +25,4 @@ source env/bin/activate
 pip install paramiko
 deactivate
 
-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
-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
+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
