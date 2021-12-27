@@ -24,3 +24,5 @@ sudo python3 install.py --production --verbose --site dsp.erp.bt --bench-name er
 source env/bin/activate
 pip install paramiko
 deactivate
+
+token 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
